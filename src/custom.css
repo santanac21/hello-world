@@ -1,0 +1,28 @@
+.custom-jumbotron{
+    padding: 50px;
+    background-image: url('./images/abstract-paint.jpg');
+    height:700px;
+    width:100%;
+    color:white;
+}
+
+.custom-h1{
+    background-color: #343A40;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+
+.custom-list{
+    list-style-type:none;
+}
+
+.custom-container{
+    background-color:#343A40;
+    color:white;
+}
+
+#content-creator{
+    text-align: center;
+    padding-bottom:20px;
+}
